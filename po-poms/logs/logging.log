@@ -1,0 +1,241 @@
+2023-01-19 17:33:37 INFO  Menu:12 - ************WELECOME TO PIZZA STORE**************
+  2023-01-19 17:33:37 INFO  Menu:13 - Press 1 to insert receptionist details:-
+  2023-01-19 17:33:37 INFO  Menu:14 - Press 2 to update receptionist details:-
+  2023-01-19 17:33:37 INFO  Menu:15 - Press 3 to delete receptionist details:-
+  2023-01-19 17:33:37 INFO  Menu:16 - Press 4 to get receptionist details:-
+  2023-01-19 17:33:59 INFO  Menu:90 - Enter the name of receptionist:-
+  2023-01-19 17:34:45 INFO  Menu:92 - Enter the contact no of receptionist:-
+  2023-01-19 17:34:54 INFO  Menu:94 - Enter the designation of receptionist:-
+  2023-01-19 17:35:48 INFO  Menu:12 - ************WELECOME TO PIZZA STORE**************
+  2023-01-19 17:35:48 INFO  Menu:13 - Press 1 to insert receptionist details:-
+  2023-01-19 17:35:48 INFO  Menu:14 - Press 2 to update receptionist details:-
+  2023-01-19 17:35:48 INFO  Menu:15 - Press 3 to delete receptionist details:-
+  2023-01-19 17:35:48 INFO  Menu:16 - Press 4 to get receptionist details:-
+  2023-01-19 17:36:14 INFO  Menu:12 - ************WELECOME TO PIZZA STORE**************
+  2023-01-19 17:36:14 INFO  Menu:13 - Press 1 to insert receptionist details:-
+  2023-01-19 17:36:14 INFO  Menu:14 - Press 2 to update receptionist details:-
+  2023-01-19 17:36:14 INFO  Menu:15 - Press 3 to delete receptionist details:-
+  2023-01-19 17:36:14 INFO  Menu:16 - Press 4 to get receptionist details:-
+  2023-01-19 19:40:05 INFO  Menu:12 - ************WELECOME TO PIZZA STORE**************
+  2023-01-19 19:40:05 INFO  Menu:13 - Press 1 to insert receptionist details:-
+  2023-01-19 19:40:05 INFO  Menu:14 - Press 2 to update receptionist details:-
+  2023-01-19 19:40:05 INFO  Menu:15 - Press 3 to delete receptionist details:-
+  2023-01-19 19:40:05 INFO  Menu:16 - Press 4 to get receptionist details:-
+  2023-01-19 19:40:09 INFO  Menu:90 - Enter the name of receptionist:-
+  2023-01-19 19:40:16 INFO  Menu:92 - Enter the contact no of receptionist:-
+  2023-01-19 19:40:22 INFO  Menu:94 - Enter the designation of receptionist:-
+  2023-01-19 19:40:27 INFO  Menu:96 - Enter the gender of receptionist:-
+  2023-01-19 19:40:30 INFO  Menu:98 - Enter the address of the receptionist:-
+  2023-01-19 19:40:35 INFO  Menu:100 - Enter the shift timing of receptionist:-
+  2023-01-19 19:40:40 INFO  Menu:104 - Data stored succesffuly
+  2023-01-19 19:40:40 INFO  Menu:24 - To continue press Y otherwise press N
+  2023-01-19 19:40:43 INFO  Menu:12 - ************WELECOME TO PIZZA STORE**************
+  2023-01-19 19:40:43 INFO  Menu:13 - Press 1 to insert receptionist details:-
+  2023-01-19 19:40:43 INFO  Menu:14 - Press 2 to update receptionist details:-
+  2023-01-19 19:40:43 INFO  Menu:15 - Press 3 to delete receptionist details:-
+  2023-01-19 19:40:43 INFO  Menu:16 - Press 4 to get receptionist details:-
+  2023-01-19 19:40:46 INFO  ReceptionistDaoImpl:49 - 1--Akshay Kadam--Counter_receptionist--Male--MORNING 09:00AM-06:00PM--9122546582--Raigad
+  2023-01-19 19:40:46 INFO  ReceptionistDaoImpl:49 - 2--Mahesh--Senior--Male--9-5--321456987--Latur
+  2023-01-19 19:40:46 INFO  Menu:24 - To continue press Y otherwise press N
+  2023-01-19 19:41:04 INFO  Menu:12 - ************WELECOME TO PIZZA STORE**************
+  2023-01-19 19:41:04 INFO  Menu:13 - Press 1 to insert receptionist details:-
+  2023-01-19 19:41:04 INFO  Menu:14 - Press 2 to update receptionist details:-
+  2023-01-19 19:41:04 INFO  Menu:15 - Press 3 to delete receptionist details:-
+  2023-01-19 19:41:04 INFO  Menu:16 - Press 4 to get receptionist details:-
+  2023-01-19 19:41:09 INFO  ReceptionistDaoImpl:49 - 1--Akshay Kadam--Counter_receptionist--Male--MORNING 09:00AM-06:00PM--9122546582--Raigad
+  2023-01-19 19:41:09 INFO  ReceptionistDaoImpl:49 - 2--Mahesh--Senior--Male--9-5--321456987--Latur
+  2023-01-19 19:41:09 INFO  Menu:47 - Enter the receptionist id
+  2023-01-19 19:41:11 INFO  ReceptionistDaoImpl:81 - Press 1: update Receptionist Name
+  2023-01-19 19:41:11 INFO  ReceptionistDaoImpl:82 - Press 2: update Designation )
+  2023-01-19 19:41:11 INFO  ReceptionistDaoImpl:83 - Press 3: update Receptionist Gender
+  2023-01-19 19:41:11 INFO  ReceptionistDaoImpl:84 - Press 4: update Receptionist shift timing
+  2023-01-19 19:41:11 INFO  ReceptionistDaoImpl:85 - Press 5: update Receptionist Contact number
+  2023-01-19 19:41:11 INFO  ReceptionistDaoImpl:86 - Press 6: update Receptionist Address
+  2023-01-19 19:41:15 INFO  ReceptionistDaoImpl:136 - Enter Receptionist Shift Time
+  2023-01-19 19:41:56 INFO  ReceptionistDaoImpl:147 - updated successfully
+  2023-01-19 19:41:56 INFO  Menu:24 - To continue press Y otherwise press N
+  2023-01-19 19:42:00 INFO  Menu:12 - ************WELECOME TO PIZZA STORE**************
+  2023-01-19 19:42:00 INFO  Menu:13 - Press 1 to insert receptionist details:-
+  2023-01-19 19:42:00 INFO  Menu:14 - Press 2 to update receptionist details:-
+  2023-01-19 19:42:00 INFO  Menu:15 - Press 3 to delete receptionist details:-
+  2023-01-19 19:42:00 INFO  Menu:16 - Press 4 to get receptionist details:-
+  2023-01-19 19:42:04 INFO  ReceptionistDaoImpl:49 - 1--Akshay Kadam--Counter_receptionist--Male--MORNING 09:00AM-06:00PM--9122546582--Raigad
+  2023-01-19 19:42:04 INFO  ReceptionistDaoImpl:49 - 2--Mahesh--Senior--Male--MOR 09:00AM - 05:00PM--321456987--Latur
+  2023-01-19 19:42:04 INFO  Menu:24 - To continue press Y otherwise press N
+  2023-01-19 19:42:21 INFO  Menu:12 - ************WELECOME TO PIZZA STORE**************
+  2023-01-19 19:42:21 INFO  Menu:13 - Press 1 to insert receptionist details:-
+  2023-01-19 19:42:21 INFO  Menu:14 - Press 2 to update receptionist details:-
+  2023-01-19 19:42:21 INFO  Menu:15 - Press 3 to delete receptionist details:-
+  2023-01-19 19:42:21 INFO  Menu:16 - Press 4 to get receptionist details:-
+  2023-01-19 19:42:23 INFO  ReceptionistDaoImpl:49 - 1--Akshay Kadam--Counter_receptionist--Male--MORNING 09:00AM-06:00PM--9122546582--Raigad
+  2023-01-19 19:42:23 INFO  ReceptionistDaoImpl:49 - 2--Mahesh--Senior--Male--MOR 09:00AM - 05:00PM--321456987--Latur
+  2023-01-19 19:42:23 INFO  Menu:62 - Enter the receptionist id from the above list
+  2023-01-19 19:42:30 INFO  Menu:67 - Deleted succesfully
+  2023-01-19 19:42:30 INFO  Menu:24 - To continue press Y otherwise press N
+  2023-01-19 19:42:33 INFO  Menu:12 - ************WELECOME TO PIZZA STORE**************
+  2023-01-19 19:42:33 INFO  Menu:13 - Press 1 to insert receptionist details:-
+  2023-01-19 19:42:33 INFO  Menu:14 - Press 2 to update receptionist details:-
+  2023-01-19 19:42:33 INFO  Menu:15 - Press 3 to delete receptionist details:-
+  2023-01-19 19:42:33 INFO  Menu:16 - Press 4 to get receptionist details:-
+  2023-01-19 19:42:34 INFO  ReceptionistDaoImpl:49 - 1--Akshay Kadam--Counter_receptionist--Male--MORNING 09:00AM-06:00PM--9122546582--Raigad
+  2023-01-19 19:42:34 INFO  Menu:24 - To continue press Y otherwise press N
+  2023-01-19 19:42:54 INFO  Menu:12 - ************WELECOME TO PIZZA STORE**************
+  2023-01-19 19:42:54 INFO  Menu:13 - Press 1 to insert receptionist details:-
+  2023-01-19 19:42:54 INFO  Menu:14 - Press 2 to update receptionist details:-
+  2023-01-19 19:42:54 INFO  Menu:15 - Press 3 to delete receptionist details:-
+  2023-01-19 19:42:54 INFO  Menu:16 - Press 4 to get receptionist details:-
+  2023-01-19 19:45:34 INFO  Menu:12 - ************WELECOME TO PIZZA STORE**************
+  2023-01-19 19:45:34 INFO  Menu:13 - Press 1 to insert receptionist details:-
+  2023-01-19 19:45:34 INFO  Menu:14 - Press 2 to update receptionist details:-
+  2023-01-19 19:45:34 INFO  Menu:15 - Press 3 to delete receptionist details:-
+  2023-01-19 19:45:34 INFO  Menu:16 - Press 4 to get receptionist details:-
+  2023-01-19 19:45:48 INFO  Menu:90 - Enter the name of receptionist:-
+  2023-01-19 19:45:53 INFO  Menu:12 - ************WELECOME TO PIZZA STORE**************
+  2023-01-19 19:45:53 INFO  Menu:13 - Press 1 to insert receptionist details:-
+  2023-01-19 19:45:53 INFO  Menu:14 - Press 2 to update receptionist details:-
+  2023-01-19 19:45:53 INFO  Menu:15 - Press 3 to delete receptionist details:-
+  2023-01-19 19:45:53 INFO  Menu:16 - Press 4 to get receptionist details:-
+  2023-01-19 23:46:12 INFO  Menu:12 - ************WELECOME TO PIZZA STORE**************
+  2023-01-19 23:46:12 INFO  Menu:13 - Press 1 to insert receptionist details:-
+  2023-01-19 23:46:12 INFO  Menu:14 - Press 2 to update receptionist details:-
+  2023-01-19 23:46:12 INFO  Menu:15 - Press 3 to delete receptionist details:-
+  2023-01-19 23:46:12 INFO  Menu:16 - Press 4 to get receptionist details:-
+  2023-01-19 23:47:19 INFO  Menu:12 - ************WELECOME TO PIZZA STORE**************
+  2023-01-19 23:47:19 INFO  Menu:13 - Press 1 to insert receptionist details:-
+  2023-01-19 23:47:19 INFO  Menu:14 - Press 2 to update receptionist details:-
+  2023-01-19 23:47:19 INFO  Menu:15 - Press 3 to delete receptionist details:-
+  2023-01-19 23:47:19 INFO  Menu:16 - Press 4 to get receptionist details:-
+  2023-01-19 23:47:33 INFO  Menu:12 - ************WELECOME TO PIZZA STORE**************
+  2023-01-19 23:47:33 INFO  Menu:13 - Press 1 to insert receptionist details:-
+  2023-01-19 23:47:33 INFO  Menu:14 - Press 2 to update receptionist details:-
+  2023-01-19 23:47:33 INFO  Menu:15 - Press 3 to delete receptionist details:-
+  2023-01-19 23:47:33 INFO  Menu:16 - Press 4 to get receptionist details:-
+  2023-01-19 23:51:18 INFO  Menu:12 - ************WELECOME TO PIZZA STORE**************
+  2023-01-19 23:51:18 INFO  Menu:13 - Press 1 to insert receptionist details:-
+  2023-01-19 23:51:18 INFO  Menu:14 - Press 2 to update receptionist details:-
+  2023-01-19 23:51:18 INFO  Menu:15 - Press 3 to delete receptionist details:-
+  2023-01-19 23:51:18 INFO  Menu:16 - Press 4 to get receptionist details:-
+  2023-01-19 23:51:35 INFO  Menu:12 - ************WELECOME TO PIZZA STORE**************
+  2023-01-19 23:51:35 INFO  Menu:13 - Press 1 to insert receptionist details:-
+  2023-01-19 23:51:35 INFO  Menu:14 - Press 2 to update receptionist details:-
+  2023-01-19 23:51:35 INFO  Menu:15 - Press 3 to delete receptionist details:-
+  2023-01-19 23:51:35 INFO  Menu:16 - Press 4 to get receptionist details:-
+  2023-01-19 23:52:24 INFO  Menu:12 - ************WELECOME TO PIZZA STORE**************
+  2023-01-19 23:52:24 INFO  Menu:13 - Press 1 to insert receptionist details:-
+  2023-01-19 23:52:24 INFO  Menu:14 - Press 2 to update receptionist details:-
+  2023-01-19 23:52:24 INFO  Menu:15 - Press 3 to delete receptionist details:-
+  2023-01-19 23:52:24 INFO  Menu:16 - Press 4 to get receptionist details:-
+  2023-01-19 23:52:27 INFO  Menu:90 - Enter the name of receptionist:-
+  2023-01-19 23:52:33 INFO  Menu:12 - ************WELECOME TO PIZZA STORE**************
+  2023-01-19 23:52:33 INFO  Menu:13 - Press 1 to insert receptionist details:-
+  2023-01-19 23:52:33 INFO  Menu:14 - Press 2 to update receptionist details:-
+  2023-01-19 23:52:33 INFO  Menu:15 - Press 3 to delete receptionist details:-
+  2023-01-19 23:52:33 INFO  Menu:16 - Press 4 to get receptionist details:-
+  2023-01-19 23:52:35 INFO  ReceptionistDaoImpl:49 - 1--Akshay Kadam--Counter_receptionist--Male--MORNING 09:00AM-06:00PM--9122546582--Raigad
+  2023-01-19 23:52:35 INFO  Menu:24 - To continue press Y otherwise press N
+  2023-01-19 23:53:55 INFO  Menu:12 - ************WELECOME TO PIZZA STORE**************
+  2023-01-19 23:53:55 INFO  Menu:13 - Press 1 to insert receptionist details:-
+  2023-01-19 23:53:55 INFO  Menu:14 - Press 2 to update receptionist details:-
+  2023-01-19 23:53:55 INFO  Menu:15 - Press 3 to delete receptionist details:-
+  2023-01-19 23:53:55 INFO  Menu:16 - Press 4 to get receptionist details:-
+  2023-01-19 23:54:27 INFO  Menu:12 - ************WELECOME TO PIZZA STORE**************
+  2023-01-19 23:54:27 INFO  Menu:13 - Press 1 to insert receptionist details:-
+  2023-01-19 23:54:27 INFO  Menu:14 - Press 2 to update receptionist details:-
+  2023-01-19 23:54:27 INFO  Menu:15 - Press 3 to delete receptionist details:-
+  2023-01-19 23:54:27 INFO  Menu:16 - Press 4 to get receptionist details:-
+  2023-01-19 23:55:16 INFO  Menu:12 - ************WELECOME TO PIZZA STORE**************
+  2023-01-19 23:55:16 INFO  Menu:13 - Press 1 to insert receptionist details:-
+  2023-01-19 23:55:16 INFO  Menu:14 - Press 2 to update receptionist details:-
+  2023-01-19 23:55:16 INFO  Menu:15 - Press 3 to delete receptionist details:-
+  2023-01-19 23:55:16 INFO  Menu:16 - Press 4 to get receptionist details:-
+  2023-01-19 23:57:05 INFO  Menu:12 - ************WELECOME TO PIZZA STORE**************
+  2023-01-19 23:57:05 INFO  Menu:13 - Press 1 to insert receptionist details:-
+  2023-01-19 23:57:05 INFO  Menu:14 - Press 2 to update receptionist details:-
+  2023-01-19 23:57:05 INFO  Menu:15 - Press 3 to delete receptionist details:-
+  2023-01-19 23:57:05 INFO  Menu:16 - Press 4 to get receptionist details:-
+  2023-01-20 00:07:48 INFO  Menu:16 - ************WELECOME TO PIZZA STORE**************
+  2023-01-20 00:07:48 INFO  Menu:17 - Press 1 to insert receptionist details:-
+  2023-01-20 00:07:48 INFO  Menu:18 - Press 2 to update receptionist details:-
+  2023-01-20 00:07:48 INFO  Menu:19 - Press 3 to delete receptionist details:-
+  2023-01-20 00:07:48 INFO  Menu:20 - Press 4 to get receptionist details:-
+  2023-01-20 00:08:19 INFO  ReceptionistDaoImpl:50 - 1--Akshay Kadam--Counter_receptionist--Male--MORNING 09:00AM-06:00PM--9122546582--Raigad
+  2023-01-20 00:08:19 INFO  Menu:33 - To continue press Y otherwise press N
+  2023-01-20 00:13:42 INFO  Menu:16 - ************WELECOME TO PIZZA STORE**************
+  2023-01-20 00:13:42 INFO  Menu:17 - Press 1 to insert receptionist details:-
+  2023-01-20 00:13:42 INFO  Menu:18 - Press 2 to update receptionist details:-
+  2023-01-20 00:13:42 INFO  Menu:19 - Press 3 to delete receptionist details:-
+  2023-01-20 00:13:42 INFO  Menu:20 - Press 4 to get receptionist details:-
+  2023-01-20 00:13:53 INFO  ReceptionistDaoImpl:50 - 1--Akshay Kadam--Counter_receptionist--Male--MORNING 09:00AM-06:00PM--9122546582--Raigad
+  2023-01-20 00:13:53 INFO  Menu:55 - Enter the receptionist id
+  2023-01-20 00:29:57 INFO  Menu:24 - ==========Welcome Admin==========
+
+  2023-01-20 00:29:57 INFO  Menu:25 - Press 1 to Register 
+  2023-01-20 00:29:57 INFO  Menu:26 - Press 2 for Login 
+  2023-01-20 00:42:17 INFO  Menu:24 - ==========Welcome Admin==========
+
+  2023-01-20 00:42:17 INFO  Menu:25 - Press 1 to Register 
+  2023-01-20 00:42:17 INFO  Menu:26 - Press 2 for Login 
+  2023-01-20 07:39:56 INFO  Menu:24 - ==========Welcome Admin==========
+
+  2023-01-20 07:39:56 INFO  Menu:25 - Press 1 to Register 
+  2023-01-20 07:39:56 INFO  Menu:26 - Press 2 for Login 
+  2023-01-20 07:40:15 INFO  Menu:59 - Enter name: 
+  2023-01-20 07:40:20 INFO  Menu:61 - Enter password: 
+  2023-01-20 07:40:24 INFO  Menu:78 - Login Successful!!
+  2023-01-20 07:40:24 INFO  Menu:16 - ************WELECOME TO PIZZA STORE**************
+  2023-01-20 07:40:24 INFO  Menu:17 - Press 1 to insert receptionist details:-
+  2023-01-20 07:40:24 INFO  Menu:18 - Press 2 to update receptionist details:-
+  2023-01-20 07:40:24 INFO  Menu:19 - Press 3 to delete receptionist details:-
+  2023-01-20 07:40:24 INFO  Menu:20 - Press 4 to get receptionist details:-
+  2023-01-20 07:40:53 INFO  Menu:94 - Enter the name of receptionist:-
+  2023-01-20 07:40:58 INFO  Menu:96 - Enter the contact no of receptionist:-
+  2023-01-20 07:41:00 INFO  Menu:98 - Enter the designation of receptionist:-
+  2023-01-20 07:41:03 INFO  Menu:100 - Enter the gender of receptionist:-
+  2023-01-20 07:41:04 INFO  Menu:102 - Enter the address of the receptionist:-
+  2023-01-20 07:41:05 INFO  Menu:104 - Enter the shift timing of receptionist:-
+  2023-01-20 07:41:06 INFO  Menu:111 - Incorrect integer value: 'kjdv' for column 'Contact_no' at row 1
+  2023-01-20 07:41:06 INFO  Menu:33 - To continue press Y otherwise press N
+  2023-01-20 07:41:48 INFO  Menu:24 - ==========Welcome Admin==========
+
+  2023-01-20 07:41:48 INFO  Menu:25 - Press 1 to Register 
+  2023-01-20 07:41:48 INFO  Menu:26 - Press 2 for Login 
+  2023-01-20 08:21:22 INFO  Menu:59 - Enter name: 
+  2023-01-20 08:21:26 INFO  Menu:61 - Enter password: 
+  2023-01-20 08:21:29 INFO  Menu:78 - Login Successful!!
+  2023-01-20 08:21:29 INFO  Menu:16 - ************WELECOME TO PIZZA STORE**************
+  2023-01-20 08:21:29 INFO  Menu:17 - Press 1 to insert receptionist details:-
+  2023-01-20 08:21:29 INFO  Menu:18 - Press 2 to update receptionist details:-
+  2023-01-20 08:21:29 INFO  Menu:19 - Press 3 to delete receptionist details:-
+  2023-01-20 08:21:29 INFO  Menu:20 - Press 4 to get receptionist details:-
+  2023-01-20 08:21:33 INFO  ReceptionistDaoImpl:50 - 1--Akshay Kadam--Counter_receptionist--Male--MORNING 09:00AM-06:00PM--9122546582--Raigad
+  2023-01-20 08:21:33 INFO  Menu:33 - To continue press Y otherwise press N
+  2023-01-20 08:21:36 INFO  Menu:16 - ************WELECOME TO PIZZA STORE**************
+  2023-01-20 08:21:36 INFO  Menu:17 - Press 1 to insert receptionist details:-
+  2023-01-20 08:21:36 INFO  Menu:18 - Press 2 to update receptionist details:-
+  2023-01-20 08:21:36 INFO  Menu:19 - Press 3 to delete receptionist details:-
+  2023-01-20 08:21:36 INFO  Menu:20 - Press 4 to get receptionist details:-
+  2023-01-20 08:21:37 INFO  Menu:94 - Enter the name of receptionist:-
+  2023-01-20 08:22:25 INFO  Menu:96 - Enter the contact no of receptionist:-
+  2023-01-20 08:22:28 INFO  Menu:98 - Enter the designation of receptionist:-
+  2023-01-20 08:22:45 INFO  Menu:100 - Enter the gender of receptionist:-
+  2023-01-20 08:22:52 INFO  Menu:102 - Enter the address of the receptionist:-
+  2023-01-20 08:22:59 INFO  Menu:104 - Enter the shift timing of receptionist:-
+  2023-01-20 08:23:39 INFO  Menu:108 - Data stored succesffuly
+  2023-01-20 08:23:39 INFO  Menu:33 - To continue press Y otherwise press N
+  2023-01-20 08:23:42 INFO  Menu:16 - ************WELECOME TO PIZZA STORE**************
+  2023-01-20 08:23:42 INFO  Menu:17 - Press 1 to insert receptionist details:-
+  2023-01-20 08:23:42 INFO  Menu:18 - Press 2 to update receptionist details:-
+  2023-01-20 08:23:42 INFO  Menu:19 - Press 3 to delete receptionist details:-
+  2023-01-20 08:23:42 INFO  Menu:20 - Press 4 to get receptionist details:-
+  2023-01-20 08:23:52 INFO  ReceptionistDaoImpl:50 - 1--Akshay Kadam--Counter_receptionist--Male--MORNING 09:00AM-06:00PM--9122546582--Raigad
+  2023-01-20 08:23:52 INFO  ReceptionistDaoImpl:50 - 3--Roshan--Office Manager--Male--MOR 09:00AM-06:00PM--65468956453--Nepal
+  2023-01-20 08:23:52 INFO  Menu:33 - To continue press Y otherwise press N
+  2023-01-20 08:50:47 INFO  Menu:24 - ==========Welcome Admin==========
+
+  2023-01-20 08:50:47 INFO  Menu:24 - ==========Welcome Admin==========
+
+  2023-01-20 08:50:47 INFO  Menu:25 - Press 1 to Register 
+  2023-01-20 08:50:47 INFO  Menu:25 - Press 1 to Register 
+  2023-01-20 08:50:47 INFO  Menu:26 - Press 2 for Login 
+  2023-01-20 08:50:47 INFO  Menu:26 - Press 2 for Login 
+  
