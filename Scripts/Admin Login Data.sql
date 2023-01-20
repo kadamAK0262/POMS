@@ -1,6 +1,7 @@
 USE poms_rev;
 DROP TABLE admin_reg;
 CREATE TABLE admin_reg(
+admin_id int primary key auto_increment,
 admin_name varchar(25),
 admin_email varchar(40),
 admin_phone bigint,
