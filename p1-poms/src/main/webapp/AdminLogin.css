@@ -1,0 +1,124 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-image: linear-gradient(45deg, #0000005c, transparent);
+    
+}
+.div2 {
+    display: flex;
+    -ms-flex-item-align: center;
+    flex-direction: column;
+    width: 25%;
+    height:30%;
+    align-items: center;
+    font-weight: bolder;
+    background-color: rgba(248, 200, 149, 0.825);
+    background-image: linear-gradient(45deg, #040b05b9, #57548347);
+    /* background-image: "https://media.istockphoto.com/id/1349383878/photo/hawaiian-pizza-with-ham-and-pineapple.jpg?s=1024x1024&w=is&k=20&c=9rl500mkuFp3o7XrBszJ9mm_if9yWRwdD2DP-uUrzl4="; */
+    box-shadow: rgb(0, 0, 0) 0px 10px 10px 0px, rgb(238, 190, 182) 0px 0px 0px 1px;
+    padding: 1%;
+    /* z-index: -3; */
+    /* opacity: 80%; */
+    
+}
+.btn1{
+    background-color: #3b87a1;
+    margin: 3%;
+    font-size: 16px;
+    padding: 12px 28px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    border: none;
+    border-radius: 25px;
+    /* box-shadow: 0 9px #999; */
+    /* border-color: aqua; */
+
+}
+.loginIm{
+    align-self: center;
+    margin: 3%;
+    height: 20vh;
+    width: 60%;
+    filter: drop-shadow(2px 2px 41px rgba(111, 111, 111));
+
+    
+}
+.SignUp{
+    background-color: #79ab8570;
+    margin: 3%;
+    font-size: 16px;
+    padding: 3px 14px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    border: none;
+    border-radius: 15px;
+}
+.label1{
+    width: 60%;
+    height: 30px;
+    border-radius: 15px;
+    font-size: 15px;
+    font-weight: 500;
+    padding: 8px;
+    border: none;
+    margin: 12px 0px;
+    /* box-shadow: 0px 10px 12px 5px gainsboro; */
+}
+
+.label2{
+    width: 60%;
+    height: 30px;
+    border-radius: 15px;
+    font-size: 15px;
+    font-weight: 500;
+    padding: 8px;
+    border: none;
+    margin: 12px 0px;
+    /* box-shadow: 0px 10px 12px 5px gainsboro; */
+}
+
+@media (max-width: 600px) {
+    .container {
+        flex-direction: column;
+        align-items: center;
+    }
+    .div2 {
+        width: 70%;
+        background-color: #ef9a9a2e;
+        padding: 5px;
+        margin: 1px;
+    }
+}
+
+
+
+/* Admin page Buttons */
+/* .container .btn {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: #555;
+    color: white;
+    font-size: 16px;
+    padding: 12px 24px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+  }
+  
+  .container .btn:hover {
+    background-color: black;
+  } */
+  
+  
+  
+ 
+  
